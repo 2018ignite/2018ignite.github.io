@@ -9,4 +9,67 @@
   bio: Myeong is a Ph.D. candidate studying information science at the University of Maryland at College Park. He is a Junior Fellow at the Center for the Advanced Study of Communities and Information (CASCI); also, he is a Data Science & Technology Fellow at The Center for Open Data Enterprise, a non-profit that advocates for open data movements. His research interests are in understanding the dynamics of cities, local groups, and local information inequality by making use of computational methods and social theories. He also designs and implements systems that demonstrate and solve information issues.
   website: https://myeonglee.com
   
+- name: Robin Brewer
+  image: /assets/images/brewer_robin_01.jpg
+  bio: Robin Brewer is a Presidential Postdoctoral Fellow in the School of Information at University of Michigan. In her work, she asks how online and offline experiences with technology can be made more accessible to marginalized and underrepresented populations. Dr. Brewer designs, builds, and studies systems to better engage older adults and people with vision impairments, two groups for which technology access and use can be challenging. 
+  website: robinbrewer.com
   
+- name: Jonathan Brier
+  image: /assets/images/Jonathan Brier-2_web.jpg
+  bio: Jonathan Brier is a 3rd year PhD student in the College of Information Studies program. He earned his B.S in Media and Information Technology (Telecom) at Michigan State University and M.S. in Information focused in Social Computing at the University of Michigan. His current studies focus is on the health and sustainability of communities and technology primarily explored through applications in the domain of citizen science and network based applications.
+  website: https://brierjon.com
+
+- name: Jack Carroll
+  image: /assets/images/carroll.jpg
+  bio: Jack Carroll is a Distinguished Professor of Information Sciences and Technology at Pennsylvania State University. His research is in human-computer interaction, including tools and methods to enhance design, education and learning, collaboration, and community.  In 2018, he received the Faculty Scholar Medal in Social and Behavioral Science from Penn State.
+  website: 
+  
+- name: Shonte Eldridge 
+  image: /assets/images/Shonte Eldridge Photo.jpg
+  bio: Ms. Shonte Eldridge currently serves as the City of Baltimore’s Deputy Chief of Operations where she is responsible for supporting Mayor Catherine E. Pugh’s efforts to strategically align and transform City government and leading city wide initiatives, strategies and smart cities projects that directly impact residents, visitors and business owners
+  website: 
+  
+ - name: Sheena Erete
+  image: /assets/images/SheenaErete_550_R_headshot.jpg
+  bio: Sheena Erete is an assistant professor in the College of Computing and Digital Media at DePaul University, where she researches the role of technology and design in addressing social issues such as violence, civic engagement, and STEM education in resource constrained communities in Chicago. She earned a Ph.D. in Technology and Social Behavior (a joint degree in Computer Science and Communication) from Northwestern University and a Masters of Computer Science from Georgia Tech. As an undergraduate, she attended Spelman College, where she studied Mathematics and Computer Science.
+  website: 
+  
+  - name: Aniruddha Gokhale
+  image: /assets/images/myeong.jpg
+  bio: Aniruddha Gokhale is a full Professor of Computer Science and Engineering in the Department of Electrical Engineering and Computer Science, and Senior Research Scientist in the Institute for Software Integrated Systems both at Vanderbilt University. His current research focuses on addressing a variety of systems challenges in cloud-fog-edge computing. He has been funded by the NSF US Ignite program to investigate the use of cloud computing technologies to support collaborative STEM education. 
+  website: A.Gokhale-Dec2015.jpg
+  
+- name: John Harlow
+  image: /assets/images/JH_Headshot.jpg
+  bio: John Harlow is a postdoctoral scholar in the MacArthur Foundation Research Network on Opening Governance at the Arizona State University School for the Future of Innovation in Society. He researches strategic intervention points for process innovation in governance. John is currently working on the RWJF grant "Opening pathways for discovery, research, and innovation in health and healthcare.
+  website:   
+  
+- name: Eric Johnston
+  image: /assets/images/johnsno.jpg
+  bio: Dr. Erik Johnston is an Associate Professor in the School for the Future of Innovation in Society, the Director of the Center for Smart Cities and Regions, and the Director of Policy Informatics at the Decision Theater. His research has been grounded with practical application in health care delivery, patient-led research, participatory platforms with a public intent, the governance of large-scale natural resource conservation efforts, the future of Arizona’s educational systems, extreme heat mitigation, and the development of the 35-year Phoenix Transportation plan. In each context, he emphasized the use of participatory methods to reduce the gap between knowledge discovery and use. Among others, the research has been funded by the National Science Foundation, MacArthur Foundation, and Robert Wood Johnson Foundation.
+  website:
+    
+- name: Adam Kriesberg
+  image: /assets/images/adam.png
+  bio: Adam Kriesberg is a Lecturer at the University of Maryland, College of Information Studies. He currently works on a variety of research projects related to agricultural data curation as part of a cooperative agreement with the National Agricultural Library.  Adam completed his PhD at the University of Michigan in 2015. His additional work has covered public-private partnerships, digital preservation, cultural heritage and metrics/evaluation of information services.
+  website: 
+    
+- name: Reinhold Mann
+  image: /assets/images/reinhold-c-mann.jpg
+  bio: As Deputy Vice Chancellor for Research at the University of Tennessee at Chattanooga (UTC) Dr. Mann is representing UTC in the Chattanooga Smart Community Collaborative (CSCC). The purpose of the CSCC is to research, develop, deploy and evaluate technology and analytically based solutions to the problems facing the systems and infrastructure that serve the quality of life and economy in the Chattanooga area. 
+  website: 
+    
+- name: Chiyoung Oh
+  image: /assets/images/Chiyoung_Oh.jpg
+  bio: Chiyoung Oh is a doctoral candidate at the University of Maryland, College Park's College of Information Studies. His areas of research span information behavior, human-computer interaction, health informatics, and community informatics, and his dissertation research examines international newcomer students' information behaviors during adjustment to a host country. Chiyoung holds an MS in Information Science (with a concentration in Human-Computer Interaction) from the University of North Carolina at Chapel Hill, as well as a BA in Psychology, a BA in Library and Information Science, and a BBA in Business Administration from Yonsei University, Seoul, Korea. 
+  website:
+ 
+ - name: Andrew Schrock
+  image: /assets/images/Andrew - headshot2.jpg
+  bio: Andrew Schrock received his Ph.D. from the University of Southern California, and currently is a post-doctoral fellow at Chapman University. His research broadly considers how people use communication technologies to re-imagine and re-configure family, community, and government. He has written a book on the “civic tech” movement, and articles in journals including New Media & Society; the International Journal of Communication; and Big Data & Society. For more information and articles please visit his website at aschrock.com. 
+  website: https://aschrock.com
+   
+- name: Beth St. Jean
+  image: /assets/images/Beth St Jean_web.jpg
+  bio: Beth St. Jean is an Assistant Professor in the College of Information Studies (https://ischool.umd.edu/), the Assistant Director of the Information Policy and Access Center (iPAC) (http://ipac.umd.edu/), and an affiliate faculty member of the Horowitz Center for Health Literacy (http://sph.umd.edu/center/hchl), all at the University of Maryland, College Park, USA (https://www.umd.edu/). She holds an MLS and a PhD in Information from the University of Michigan School of Information (https://www.si.umich.edu/). Beth's research aims to improve people's long-term health outlooks and reduce health disparities by exploring important interrelationships between people's health-related information behaviors, health literacy levels, health-related self-efficacy, and their health behaviors. 
+  website:
