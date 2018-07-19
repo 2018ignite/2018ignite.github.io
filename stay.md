@@ -5,4 +5,4 @@ permalink: /informed/
 ---
 
 
-How to be listed on the listsrv?
+To be announced...
