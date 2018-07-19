@@ -1,0 +1,45 @@
+<!-- original source code of this page:  https://github.com/compsocialscience/summer-institute-->
+{% assign data = site.data %}
+{% if data.participants %}
+  
+  {% assign people = data.participants %}
+
+  {% for person in people %}  
+    {% assign index_mod_2 = forloop.index | modulo: 2 %}
+    {% if index_mod_2 == 1 %}
+      <div class="row">
+    {% endif %}
+    <div class="col-md-6">
+      <div class="row">
+        <div class="profile-photo">
+          <p>
+            {% if person.website %}
+              <a href="{{ person.website }}">
+            {% endif %}
+              {% if person.image %}
+                {% assign image_prefix = person.image | slice: 0, 4 %}
+                {% if image_prefix == "http" %}
+                  {% assign image_url = person.image %}
+                {% else %}
+                  {% assign image_url = person.image | prepend: site.baseurl %}
+                {% endif %}
+                <img class="img-responsive" src="{{ image_url }}" alt="Image of {{ person.name }}">
+              {% endif %}
+            {% if person.website %}</a>{% endif %}
+          </p>
+        </div>
+        <div class="profile-text">
+          <h4 class="media-heading">
+            {% if person.website %}<a href="{{ person.website }}" target="_blank">{% endif %}
+            {{ person.name }}
+            {% if person.website %}</a>{% endif %}
+          </h4>
+          {% if person.bio %}{{ person.bio | markdownify }}{% endif %}
+        </div>
+      </div>
+    </div>
+    {% if index_mod_2 == 0 or forloop.last %}
+    </div> <!-- close row -->
+    {% endif %}
+  {% endfor %}
+{% endif %}

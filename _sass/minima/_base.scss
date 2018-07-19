@@ -1,3 +1,4 @@
+
 /**
  * Reset some basic elements
  */
@@ -107,7 +108,9 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    /*color: darken($brand-color, 15%);*/
+    color: $brand-color;
+    text-decoration: none;
   }
 
   &:hover {
@@ -260,5 +263,58 @@ table {
 
 /* Main Page */
 .register-button{
-  
+  text-align: center;
+  margin: 40px 0 50px 0;
+}
+
+.register-button a,
+.register-button a:visited{
+  color: red;
+  font-size: 20px;
+  border: 1px solid red;
+  padding: 10px 20px 10px 20px;
+  border-radius: 4px;
+}
+
+.register-button a:hover{
+  color: white;
+  background: red;
+  font-size: 20px;
+  border: 1px solid red;
+  padding: 10px 20px 10px 20px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+#hotel{
+  width: 80%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 30px;
+}
+
+/* Participants */
+.col-md-6{
+  min-height: 300px;  
+}
+
+.profile-photo {
+  max-width: 200px;
+  max-height: 200px;
+  overflow:hidden;
+  float: left;
+  border: 1px solid gray;
+}
+
+.profile-text {  
+  width: 75%;
+  float:left;
+  margin-left: 20px;
+  padding-bottom: 20px;
+}
+
+.profile-text .media-heading{
+  margin-bottom: 5px;
 }
