@@ -305,7 +305,7 @@ table {
 
 /* Participants */
 .col-md-6{
-  min-height: 300px;  
+  min-height: 250px;  
 }
 
 .profile-photo {
@@ -321,6 +321,7 @@ table {
   float:left;
   margin-left: 20px;
   padding-bottom: 20px;
+  min-height: 200px;
 }
 
 .profile-text .media-heading{

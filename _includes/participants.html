@@ -2,8 +2,8 @@
 {% assign data = site.data %}
 {% if data.participants %}
   
-  {% assign people = data.participants %}
-
+  {% assign people = data.participants | sort: 'name'%}
+  
   {% for person in people %}  
     {% assign index_mod_2 = forloop.index | modulo: 2 %}
     {% if index_mod_2 == 1 %}
