@@ -263,8 +263,16 @@ table {
 
 /* Main Page */
 .register-button{
+  max-width: 270px;
+  font-size: 20px;
   text-align: center;
   margin: 40px 0 50px 0;
+  border: 1px solid black;
+  padding: 10px 20px 10px 20px;
+  border-radius: 4px;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
 }
 
 .register-button a,

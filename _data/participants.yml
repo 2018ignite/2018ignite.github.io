@@ -29,12 +29,12 @@
   bio: Ms. Shonte Eldridge currently serves as the City of Baltimore’s Deputy Chief of Operations where she is responsible for supporting Mayor Catherine E. Pugh’s efforts to strategically align and transform City government and leading city wide initiatives, strategies and smart cities projects that directly impact residents, visitors and business owners
   website: 
   
- - name: Sheena Erete
+- name: Sheena Erete
   image: /assets/images/SheenaErete_550_R_headshot.jpg
   bio: Sheena Erete is an assistant professor in the College of Computing and Digital Media at DePaul University, where she researches the role of technology and design in addressing social issues such as violence, civic engagement, and STEM education in resource constrained communities in Chicago. She earned a Ph.D. in Technology and Social Behavior (a joint degree in Computer Science and Communication) from Northwestern University and a Masters of Computer Science from Georgia Tech. As an undergraduate, she attended Spelman College, where she studied Mathematics and Computer Science.
   website: 
   
-  - name: Aniruddha Gokhale
+- name: Aniruddha Gokhale
   image: /assets/images/myeong.jpg
   bio: Aniruddha Gokhale is a full Professor of Computer Science and Engineering in the Department of Electrical Engineering and Computer Science, and Senior Research Scientist in the Institute for Software Integrated Systems both at Vanderbilt University. His current research focuses on addressing a variety of systems challenges in cloud-fog-edge computing. He has been funded by the NSF US Ignite program to investigate the use of cloud computing technologies to support collaborative STEM education. 
   website: A.Gokhale-Dec2015.jpg
@@ -64,7 +64,7 @@
   bio: Chiyoung Oh is a doctoral candidate at the University of Maryland, College Park's College of Information Studies. His areas of research span information behavior, human-computer interaction, health informatics, and community informatics, and his dissertation research examines international newcomer students' information behaviors during adjustment to a host country. Chiyoung holds an MS in Information Science (with a concentration in Human-Computer Interaction) from the University of North Carolina at Chapel Hill, as well as a BA in Psychology, a BA in Library and Information Science, and a BBA in Business Administration from Yonsei University, Seoul, Korea. 
   website:
  
- - name: Andrew Schrock
+- name: Andrew Schrock
   image: /assets/images/Andrew - headshot2.jpg
   bio: Andrew Schrock received his Ph.D. from the University of Southern California, and currently is a post-doctoral fellow at Chapman University. His research broadly considers how people use communication technologies to re-imagine and re-configure family, community, and government. He has written a book on the “civic tech” movement, and articles in journals including New Media & Society; the International Journal of Communication; and Big Data & Society. For more information and articles please visit his website at aschrock.com. 
   website: https://aschrock.com
