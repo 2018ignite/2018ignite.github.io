@@ -39,6 +39,11 @@
   bio: Aniruddha Gokhale is a full Professor of Computer Science and Engineering in the Department of Electrical Engineering and Computer Science, and Senior Research Scientist in the Institute for Software Integrated Systems both at Vanderbilt University. His current research focuses on addressing a variety of systems challenges in cloud-fog-edge computing. He has been funded by the NSF US Ignite program to investigate the use of cloud computing technologies to support collaborative STEM education. 
   website: 
 
+- name: Srishti Gupta
+  image: /assets/images/DSC_0085-001.JPG
+  bio: Srishti Gupta is a second year PhD student in College of Information Science and Technology, at Pennsylvania State University. She is working in the area of Human-Computer Interaction (HCI) with Prof. John M. Carroll. She holds a masters degree in Software Engineering. 
+  website: sxg596@psu.edu
+
 - name: John Harlow
   image: /assets/images/JH_Headshot.jpg
   bio: John Harlow is a postdoctoral scholar in the MacArthur Foundation Research Network on Opening Governance at the Arizona State University School for the Future of Innovation in Society. He researches strategic intervention points for process innovation in governance. John is currently working on the RWJF grant "Opening pathways for discovery, research, and innovation in health and healthcare.
@@ -73,3 +78,13 @@
   image: /assets/images/Beth St Jean_web.jpg
   bio: Beth St. Jean is an Assistant Professor in the College of Information Studies (https://ischool.umd.edu/), the Assistant Director of the Information Policy and Access Center (iPAC) (http://ipac.umd.edu/), and an affiliate faculty member of the Horowitz Center for Health Literacy (http://sph.umd.edu/center/hchl), all at the University of Maryland, College Park, USA (https://www.umd.edu/). She holds an MLS and a PhD in Information from the University of Michigan School of Information (https://www.si.umich.edu/). Beth's research aims to improve people's long-term health outlooks and reduce health disparities by exploring important interrelationships between people's health-related information behaviors, health literacy levels, health-related self-efficacy, and their health behaviors. 
   website:
+  
+- name: Yunyun Wang
+  image: /assets/images/ywang_headshot.jpg
+  bio: Yunyun is an undergrad at Cornell University studying biological engineering and government. She is currently a smart gigabit community (SGC) intern at US Ignite, a non-profit employing advanced networking technologies to build the foundation for smart communities, which helped develop her interests in urban development and data equity. Yunyun hopes to continue utilizing her love for scientific innovation to create positive societal impacts
+  website: yunyun.wang@us-ignite.org 
+  
+- name: Andrea Wiggins
+  image: /assets/images/CasaGrande.jpg
+  bio: Andrea Wiggins is an assistant professor of Information Systems & Quantitative Analysis in the College of Information Science & Technology at the University of Nebraska at Omaha. She examines how design, management, and technologies support the interests of diverse stakeholders in citizen science. Her current work focuses on understanding the growing role and impacts of technologies in citizen science, and evaluating individual and collective performance and productivity. 
+  website: wiggins@unomaha@.edu   
