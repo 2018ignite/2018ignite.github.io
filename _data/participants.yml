@@ -42,7 +42,7 @@
 - name: Srishti Gupta
   image: /assets/images/DSC_0085-001.JPG
   bio: Srishti Gupta is a second year PhD student in College of Information Science and Technology, at Pennsylvania State University. She is working in the area of Human-Computer Interaction (HCI) with Prof. John M. Carroll. She holds a masters degree in Software Engineering. 
-  website: sxg596@psu.edu
+  website: 
 
 - name: John Harlow
   image: /assets/images/JH_Headshot.jpg
@@ -82,9 +82,41 @@
 - name: Yunyun Wang
   image: /assets/images/ywang_headshot.jpg
   bio: Yunyun is an undergrad at Cornell University studying biological engineering and government. She is currently a smart gigabit community (SGC) intern at US Ignite, a non-profit employing advanced networking technologies to build the foundation for smart communities, which helped develop her interests in urban development and data equity. Yunyun hopes to continue utilizing her love for scientific innovation to create positive societal impacts
-  website: yunyun.wang@us-ignite.org 
+  website: 
   
 - name: Andrea Wiggins
   image: /assets/images/CasaGrande.jpg
   bio: Andrea Wiggins is an assistant professor of Information Systems & Quantitative Analysis in the College of Information Science & Technology at the University of Nebraska at Omaha. She examines how design, management, and technologies support the interests of diverse stakeholders in citizen science. Her current work focuses on understanding the growing role and impacts of technologies in citizen science, and evaluating individual and collective performance and productivity. 
-  website: wiggins@unomaha@.edu   
+  website:  
+
+- name: Ricardo L. Punzalan
+  image: /assets/images/IMG_0209.JPG
+  bio: Ricardo L. Punzalan is assistant professor of archives and digital curation at the College of Information Studies, affiliate assistant professor in the Department of Anthropology, and co-director of Museum Scholarship and Material Culture program at the University of Maryland, College Park. He is also the current Chair of the Native American Archives Section of the Society of American Archivists. In 2016, he received an early-career grant from the U.S. Institute of Museum and Library Services (IMLS) to study and develop strategies to assess the impact of access to digitized ethnographic archives for academic and Indigenous community users. He also examines ‘virtual reunification’ as a strategy to provide integrated access to dispersed ethnographic archival images online. He holds a Ph.D. in Information as well as graduate certificates in Science, Technology, and Society (STS) and Museum Studies from the University of Michigan. 
+  website:  
+  
+- name: Nora McDonald
+  image: /assets/images/21765316_10155523210116955_2119292799601128014_n.jpg
+  bio: Nora is a PhD student at Drexel College of Computing and Informatics. Her research currently focuses on how underrepresented communities adapt to new technologies. She is particularly interested in community-centered approaches to research.
+  website:  
+  
+- name: Bob Gradeck
+  image: /assets/images/Gradeck-1-211x300.jpg
+  bio: Bob Gradeck manages the Western Pennsylvania Regional Data Center at the University of Pittsburgh’s University Center for Social and Urban Research. The Western Pennsylvania Regional Data Center provides a shared technological and legal infrastructure to support research, analysis, decision making, and community engagement. It was created in 2015 and is managed by the University of Pittsburgh Center for Urban and Social Research, in partnership with Allegheny County and the City of Pittsburgh. 
+  website: https://www.wprdc.org/  
+  
+- name: Tawanna Dillahunt
+  image: /assets/images/Dillahunt_Tawanna-300dpi.jpg
+  bio: Tawanna is an Assistant Professor at the University of Michigan’s School of Information and holds a courtesy appointment with the Electrical Engineering and Computer Science Department. Tawanna earned her Ph.D. in Human-Computer Interaction (HCI) from Carnegie Mellon University. She now leads the Social Innovations research group, an interdisciplinary group of individuals whose vision is to design, build, and enhance technologies to solve real-world problems affecting marginalized groups and individuals primarily in the U.S. Her current projects aim to address unemployment, environmental sustainability, and technical literacy by fostering social and sociotechnical capital within these communities.
+  website: http://www.tawannadillahunt.com
+  
+- name: Lauren Keeler
+  image: /assets/images/image001.jpg
+  bio: Lauren Withycombe Keeler is a futurist and sustainability scientist in the School for the Future of Innovation in Society at Arizona State University. In her research and futures practice professor Keeler collaborates with scientists, engineers, universities, governments and communities. She studies, develops, and applies scenarios, multi-method approaches, and novel games to explore alternative futures and develop strategies and actions to bring better futures into being. 
+  website: 
+  
+- name: Mary Kendig
+  image: /assets/images/20170811_MaryKendig.jpg
+  bio: Mary Kendig is a Research Administrator at the College of Information Studies. She is active in the Ethics & Values in Design (EViD) Lab. She is currently assisting Dr. Katie Shilton in managing multiple grants, including a $3 million NSF grant exploring the re-use of online public data.  She is also serving as the Conference Coordinator for the upcoming iConference in 2019, which will be held at the University of Maryland. 
+  website:   
+  
+  
