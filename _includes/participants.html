@@ -29,11 +29,19 @@
           </p>
         </div>
         <div class="profile-text">
-          <h4 class="media-heading">
-            {% if person.website %}<a href="{{ person.website }}" target="_blank">{% endif %}
-            {{ person.name }}
-            {% if person.website %}</a>{% endif %}
-          </h4>
+          <span class="media-heading">            
+            {{ person.name }}            
+          </span>          
+            {% if person.website %}
+              <span class="website"><a href="{{ person.website }}" target="_blank">[web]</a></span>
+            {% endif %}
+          
+            {% if person.email %}
+              <span class="email">
+              {% assign mail = "mailto:" | append: person.email %}
+              <a href="{{ mail }}">[email]</a></span>
+            {% endif %}
+          
           {% if person.bio %}{{ person.bio | markdownify }}{% endif %}
         </div>
       </div>

@@ -324,8 +324,8 @@ table {
   min-height: 230px;
 }
 
-.profile-text .media-heading{
-  margin-bottom: 5px;
+.profile-text p{
+  padding-top: 5px;
 }
 
 
@@ -340,3 +340,20 @@ table {
   margin-bottom: 15px;
 }
 
+.website,
+.email{ 
+  margin-right: 4px;
+}
+
+.website a,
+.email a{
+  font-size: 13px;
+  vertical-align: baseline;
+}
+
+span.media-heading{
+  font-size: 22px;
+  font-weight: 400;
+  margin-right: 9px;
+  margin-bottom: 5px;
+}
