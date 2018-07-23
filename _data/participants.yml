@@ -123,3 +123,13 @@
   image: /assets/images/barendt.png
   bio: Nick Barendt is the Executive Director of the Institute for Smart, Secure and Connected Systems (ISSACS) at Case Western Reserve University (CWRU) and Co-Director of the IoT Collaborative, in Cleveland, Ohio.  He is an engineer with extensive experience building IoT and Connected Device Systems, across a variety of industries.  He is also an adjunct faculty member in Electrical Engineering and Computer Science at CWRU.
   website: http://case.edu/issacs    
+
+- name: Libby Hemphill
+  image: /assets/images/headshot black.jpg
+  bio: Libby Hemphill, PhD, is an associate professor of information at the University of Michigan and the Director of the Resource Center for Minority Data at the Inter-university Consortium for Political and Social Research. Her recent work focuses on how users leverage Twitter and Facebook to influence public policy and how television fans use social media to lobby for their interests. She is especially interested in how people marshal information and communication technologies in service of social change and in the ethics and pragmatics of research using big social data.
+  website: http://www.libbyh.com/   
+
+- name: Kris Unsworth
+  image: /assets/images/Kris_Dagstuhl.jpg
+  bio: Kris Unsworth is an information scientist with a focus on information policy and ethical use of data in relation to civil society and government.  Her research is multidisciplinary using theoretical aspects of science, technology, and society studies; analytical philosophy; qualitative and quantitative evaluation methods. 
+  website:   
