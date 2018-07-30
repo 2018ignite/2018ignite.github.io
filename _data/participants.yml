@@ -155,3 +155,24 @@
   image: /assets/images/yoo.jpg
   bio: Youngjin Yoo is the Elizabeth M. and William C. Treuhaft Professor in Entrepreneurship and Professor of Information Systems at the department of Design & Innovation at the Weatherhead School of Management, Case Western Reserve University. He is also WBS Distinguished Research Environment Professor at Warwick Business School, UK. and a Visiting Professor at the London School of Economics, UK. 
   website: http://youngjinyoo.com   
+  
+- name: Diane Travis
+  image: /assets/images/Diane headshot small.jpg
+  bio: Diane Travis is the Research Coordinator for the College of Information Studies, University of Maryland as well as the Special Assistant to the Senior Associate Dean. She earned her Masters of Library Science from the College of Information Studies, with her thesis looking at the information flow between different levels of first responders during Hurricane Katrina. She has a Bachelor’s of Arts from Hampshire College with a concentration in Neuropsychology.
+  website: 
+  
+- name: Susan Winter
+  image: /assets/images/winter_susan_web_0.jpg
+  bio: Susan J. Winter, Ph.D. is the Associate Dean for Research at the University of Maryland’s School of Information Studies. She has previously been a Science Advisor in the Directorate for Social Behavioral and Economic Sciences, Acting Deputy Director of the Office of Cyberinfrastructure at the National Science Foundation and a Program Director supporting distributed, interdisciplinary scientific collaboration where she was responsible for programs funding research on virtual organizations as sociotechnical systems, cyber-enabled discovery and innovation, and cyberinfrastructure education, and enabling resources for building community and capacity for complex data-driven and computational science including high performance computers, large-scale databases, and advanced software tools. 
+  website: 
+
+- name: Sean Goggins
+  image: /assets/images/seangoggins.jpg
+  bio: Sean is an open source software researcher and a founding member of the Linux Foundation’s working group on community health analytics for open source software CHAOSS, co-lead of the CHAOSS metrics software working group and leader of the open source metrics tool AUGUR which can be forked and cloned and experimented wtih on GitHub.  Sean is also the founder of the Data Science and Analytics Masters program at Missouri, which he’s now passed on to people interested in being managers and building empires. Sean’s publications focus on understanding how social technologies influence organizational, small group and community dynamics, typically including analysis of electronic trace data from systems combined with the perspectives of people whose behavior is traced. 
+  website: 
+  
+- name: Shipi Dhanorkar
+  image: /assets/images/IMG_2962.jpg
+  bio: Shipi Dhanorkar is a third year doctoral student in Informatics at Pennsylvania State University. Her research is at the nexus of user-centered design, technology and community engagement. She is interested in understanding how people engage with and leverage technology to bring about social change. She is currently working on projects related to community water data, online petitioning tools and e-governance.
+  website: 
+
